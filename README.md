@@ -18,7 +18,7 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-```
+
 DEVELOPED BY:EKKALURI MYTHRI
 REGISTRATION NUMBER:212223240034
 
@@ -83,6 +83,7 @@ getchar();
 close (fd);
 return 0;
 }
+
 ```
 
 ## OUTPUT
